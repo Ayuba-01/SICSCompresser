@@ -15,12 +15,3 @@ print(f"Compressed: {compressed}")
 
 decompressed = sics_compressor.decompress(compressed)
 print(f"Decompressed: {decompressed}")
-
-
-
-git init
-
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Ayuba-01/SICSCompresser.git
-git push -u origin main
